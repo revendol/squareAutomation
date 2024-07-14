@@ -1,7 +1,6 @@
 import OpenAI from 'openai';
 import envVars from "@shared/env-vars";
 const openai = new OpenAI({
-
 });
 
 class SquareService {
